@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKapran8
+- 👋 Hi, I’m @AKapran8 (My work Github profile AndriiK-DIGIS)
 - 👀 I’m a junior Frontend developer
 - 🌱 I’m currently learning NodeJS
 - 📫 my email kapranandriyu@gmail.com
