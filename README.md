@@ -30,6 +30,7 @@
 ### :man_technologist: About Me :
 - 💻 I'm a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 👨‍🎓 I’m currently learning ReactJS and NodeJS
+- 📋 My certificates https://nice-plum-catfish-ring.cyclic.app
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
