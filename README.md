@@ -15,9 +15,6 @@
     <a href="https://t.me/prostoWlyapa" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-      <a href="https://join.slack.com/t/wlyapa-workspace/shared_invite/zt-1wo7yodpt-tJlkMeciSLGIIYlaRs6fBA" target="_blank">
-      <img src="https://img.shields.io/badge/Slack-blueviolet?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge"/>
-    </a>
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=AKapran8&style=flat-square&color=blue" alt=""/>
