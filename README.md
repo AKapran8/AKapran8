@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/akapran8/?locale=en_US" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="tel:+4367761743848" target="_blank">
-      <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
-    </a>
     <a href="mailto:kapranandriyu@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
@@ -51,7 +48,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AKapran8&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKapran8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
