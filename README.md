@@ -3,9 +3,6 @@
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/akapran8/?locale=en_US" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="mailto:kapranandriyu@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
@@ -22,7 +19,7 @@
  </div>
 
 ### :man_technologist: About Me :
-- 💻 I'm a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- 💻 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 📋 My certificates https://nice-plum-catfish-ring.cyclic.app
 
