@@ -6,7 +6,7 @@
     <a href="mailto:kapranandriyu@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/prostoWlyapa" target="_blank">
+    <a href="https://t.me/wlyapo4ka" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     
@@ -19,9 +19,7 @@
  </div>
 
 ### :man_technologist: About Me :
-- 💻 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
-- 🌱 I’m currently learning NodeJS and Docker
-- 📋 My website https://andrii-kapran.cyclic.app
+- 💻 I'm a Full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
